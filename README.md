@@ -7,7 +7,9 @@ Sportswear, streetwear, and casual fashion is blending with high end fashion.
 Established brands like gucci, versace, off-white, and balenciaga are collaborating on sneakers and hoodies for the first time.
 Alongside collaboration, brands are artificially limiting supply of shoes to a period called "drop" -- a predefined date and time for buying said products.
 Online retailers sell out of desired "drops" in a matter of seconds. 
-The supply-demand gap has created a huge aftermarket/reseller community for these products (similar to concert tickets).
+The supply-demand gap has created a huge aftermarket/reseller community for these products (similar to concert tickets). 
+
+View stockx.com, grailed.com, stadiumgoods.com for reference.
 
 
 YeezyBot uses selenium webdriver to automate the purchase of Yeezy's off of YeezySupply.com at specified drops
